@@ -12,7 +12,7 @@ This landing page was created specifically for digital agencies looking to gener
 
 I will provide the logo, color palette, and the content for the website.
 
-The template is also very easy to customize and you can change the colors, fonts, images, and text with just a few clicks of your mouse.
+The template is also very easy to customize and you can change the colors, fonts, images, and text with just a few clicks.
 
 ### Characteristics 
 - Fully responsive and works on all devices.
