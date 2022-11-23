@@ -16,6 +16,6 @@ The template is also very easy to customize and you can change the colors, fonts
 
 ### Characteristics 
 - Fully responsive and works on all devices.
-- SEO friendly and has a lot of features that will help you rank higher on Google.
+- SEO friendly with many features that will help the client rank higher on Google.
 
 <img src='https://github.com/Lautaroef/saas-landing-page-2/blob/main/landing%20page%20template%202.png?raw=true' />
